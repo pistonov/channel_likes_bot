@@ -1,5 +1,5 @@
 # likes_bot
-Telegram bot for sending messages with likes buttons
+Telegram bot for sending likes buttons to channel
 
 Create database: `python database.py`
 
