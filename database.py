@@ -1,7 +1,7 @@
 import os
 import sqlite3
 
-DATABASE = os.environ.get('DATABASE')
+DATABASE = "like.db"
 
 
 def connect_db():
